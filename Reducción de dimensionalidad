@@ -1,27 +1,4 @@
-{
-  "cells": [
-    {
-      "cell_type": "markdown",
-      "metadata": {
-        "id": "view-in-github",
-        "colab_type": "text"
-      },
-      "source": [
-        "<a href=\"https://colab.research.google.com/github/WilliamEFonseca/Machine-Learning/blob/main/Reducci%C3%B3n%20de%20dimensionalidad\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
-      ]
-    },
-    {
-      "cell_type": "code",
-      "execution_count": null,
-      "metadata": {
-        "id": "zwFnJsE6vjf8"
-      },
-      "outputs": [],
-      "source": []
-    },
-    {
-      "cell_type": "code",
-      "source": [
+
         "# Paso 1: Importar las bibliotecas necesarias\n",
         "# -------------------------------------------\n",
         "# Estas son las bibliotecas básicas que utilizaremos.\n",
